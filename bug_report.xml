@@ -1,0 +1,12 @@
+<bug_report>
+           <ID>1</ID>
+           <Severity>Blocker/Critical/Major/Minor/Trivial</Severity>
+           <Priorety>Low/Medium/High</Priorety>
+           <Environment>Tester's_devices</Environment>
+           <Title>What?WHERE?WHEN?</Title>
+           <Steps>Steps</Steps>
+           <ER>Expected_result</ER>
+           <AR>Actual_result</AR>
+           <Attachment>Link</Attachment>
+           <Author>Nik</Author>
+  <bug_report>
